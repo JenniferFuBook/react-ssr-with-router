@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/register": "^7.21.0",
+    "babel-plugin-transform-assets": "^1.0.2"
   }
 }
